@@ -1,2 +1,3 @@
 # Bussiness-Website
-A Food Website, This repository brings our delectable dishes to life in the digital world
+
+"Explore Food Bussiness website, where we celebrate the joy of food. From delicious recipes to stories about our culinary adventures, we're your go-to place for all things tasty. Join our food-loving community and savor the world of flavors we share with you!"
